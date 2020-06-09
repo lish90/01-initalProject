@@ -5,9 +5,10 @@ Learning concept and in most case master my execution of TDD, BDD and Problem so
 ## How 
 
 0.  Jest example of adding [Jest](https://jestjs.io/docs/en/getting-started)
-1. [string-calculator ](https://katalyst.codurance.com/string-calculator  )
-2. [fizzbuzz](https://katalyst.codurance.com/fizzbuzz )
-3. [leap-year](https://katalyst.codurance.com/leap-year) 
+
+1. [fizzbuzz](https://katalyst.codurance.com/fizzbuzz )
+2. [leap-year](https://katalyst.codurance.com/leap-year) 
+3. [string-calculator ](https://katalyst.codurance.com/string-calculator  )
 4. [roman-numerals](https://katalyst.codurance.com/roman-numerals)
 5. [tennis](https://katalyst.codurance.com/tennis)  
 6. [bank](https://katalyst.codurance.com/bank)
