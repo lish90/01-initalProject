@@ -1,5 +1,5 @@
 function fizzBuzz(){
-    return '1';
+    return '133465';
 }
 
 export default fizzBuzz;
